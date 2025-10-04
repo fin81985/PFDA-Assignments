@@ -19,3 +19,7 @@ def get_bank_holidays(year):
 def is_bank_holiday(date):
     bank_holidays = get_bank_holidays(date.year)
     return date in bank_holidays 
+
+print("Bank holidays in Northern Ireland for 2025:")
+for holiday in get_bank_holidays(2025):
+    print(holiday.strftime("%d-%m-%y"))
