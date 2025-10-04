@@ -1,4 +1,4 @@
-# PFDA
+# PROGRAMMING FOR DATA ANALYTICS
 
 ## Learning outcomes
 
