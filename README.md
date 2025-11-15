@@ -1,5 +1,4 @@
 # Programming for Data Analytics – Assignments 2025
-**Module:** Programming and Scripting  
 **Author:** Finian Doonan
 ## Module Overview
 This module introduces learners to programming and data analytics concepts using Python. The focus is on solving numerical problems, visualizing data, and working with data-intensive applications using appropriate programming techniques and libraries.
